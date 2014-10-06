@@ -138,8 +138,6 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Content Include="packages.config" />
-    <Content Include="Scripts\main.ts" />
-    <Content Include="Scripts\jquery.pjax.js" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Antlr3.Runtime">
